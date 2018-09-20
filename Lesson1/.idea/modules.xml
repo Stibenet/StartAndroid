@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0041bv/p0041bv.iml" filepath="$PROJECT_DIR$/p0041bv/p0041bv.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0061layouts/p0061layouts.iml" filepath="$PROJECT_DIR$/p0061layouts/p0061layouts.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0180constraintlayoutintro/p0180constraintlayoutintro.iml" filepath="$PROJECT_DIR$/p0180constraintlayoutintro/p0180constraintlayoutintro.iml" />
     </modules>
   </component>
